@@ -6,7 +6,7 @@ public class MainClass extends PApplet{
 	
 	public static void main(String[] args) {
 		//Insert the full class path of this
-		PApplet.main("");
+		PApplet.main("yee.studios.insert_name_here.src.MainClass");
 	}
 
 	@Override
